@@ -118,4 +118,4 @@ jobs:
         with:
           context: ./gateway/
           push: true
-          tags: username/taski_gateway:latest
+          tags: ilya2909gorychev/taski_gateway:latest
